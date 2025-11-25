@@ -1,0 +1,13 @@
+How to Run the Project Locally (Laptop)
+
+1. Install Requirements :
+
+pip install -r requirements.txt
+
+2. Train the Model :
+
+python training.py
+
+3. Run the App:
+
+streamlit run app.py
