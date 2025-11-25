@@ -1,0 +1,16 @@
+How to Access the App Anywhere
+
+Once deployed to Streamlit Cloud, the app is accessible through a URL like:
+
+
+[https://crop-yield-mlops-kznrbvpxprpebgohyddeht.streamlit.app/]
+
+
+🔗 This link can be opened:
+✔ On Mobile
+✔ On Laptop
+✔ On 4G/5G
+✔ On any Wi-Fi
+✔ Without your PC being ON
+
+⛔ You do NOT need hotspot or same network anymore.
