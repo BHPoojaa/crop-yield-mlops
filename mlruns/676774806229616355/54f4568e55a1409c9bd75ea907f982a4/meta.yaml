@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/bhpoo/OneDrive/Desktop/crop-yield-mlops/mlruns/676774806229616355/54f4568e55a1409c9bd75ea907f982a4/artifacts
+end_time: 1764082813394
+entry_point_name: ''
+experiment_id: '676774806229616355'
+lifecycle_stage: active
+run_id: 54f4568e55a1409c9bd75ea907f982a4
+run_name: persistent-pug-462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764082806799
+status: 3
+tags: []
+user_id: bhpoo

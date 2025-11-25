@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/bhpoo/OneDrive/Desktop/crop-yield-mlops/mlruns/676774806229616355/models/m-6a079aff407b4f178be5cd452f92559f/artifacts
+creation_timestamp: 1764082806952
+experiment_id: '676774806229616355'
+last_updated_timestamp: 1764082813375
+model_id: m-6a079aff407b4f178be5cd452f92559f
+model_type: null
+name: model
+source_run_id: 54f4568e55a1409c9bd75ea907f982a4
+status: 2
+status_message: null
